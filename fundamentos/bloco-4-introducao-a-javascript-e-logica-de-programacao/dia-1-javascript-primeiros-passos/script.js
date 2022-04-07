@@ -1,0 +1,10 @@
+const a = 15;
+const b = 4;
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(a % b);
+const numb1 = 3; 
+const numb2 = 5;
+console.log(numb1 <= numb2);
